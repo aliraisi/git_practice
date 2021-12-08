@@ -1,2 +1,2 @@
 # git_practice
-CSKK
+CSKK from bkk
